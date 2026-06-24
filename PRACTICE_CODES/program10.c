@@ -12,7 +12,7 @@
 //  Ouput :         float
 //  Description :   Performs addition of 2 floats
 //  Date :          08/05/2026
-//  Author :        Piyush Manohar Khairnar
+//  Author :        Yash Avinash Mirge
 //
 ///////////////////////////////////////////////////////
 
