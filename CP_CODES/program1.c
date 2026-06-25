@@ -1,4 +1,4 @@
-//1.Program to divide two numbers
+//Program to divide two numbers
 #include<stdio.h>
 int Divide(int iNo1, int iNo2)
 {
