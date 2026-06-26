@@ -35,6 +35,9 @@ _ _ _
 | 02 | program04 | 	Addition of 2 variables and store it in the 3rd variable  (basic normal how we do) | 	C_Programming	| Basic Addition integer of two numbers /Steps of problem solving(Don't assume anything from interviewer)| [View Code](./PRACTICE_CODES/program04.c) |
 | 03 | program05 | 	Addition of 2 variables and store it in the 3rd variable  (basic normal how we do with Algorithm) |	C_Programming | 	Basic Addition integer of two numbers /Steps of problem solving | [View Code](./PRACTICE_CODES/program05.c) |
 | 04 | program06 |	Addition of 2 variables and store it in the 3rd variable  (basic normal how we do with Variable creation with default values) |	C_Programming  |	Variable creation with default values |  [View Code](./PRACTICE_CODES/program06.c) |
+
+
+
 ## 📂 Repository Structure
 
 ```bash
