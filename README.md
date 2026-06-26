@@ -25,6 +25,12 @@ _ _ _
 | 15 | program15 | Check whether character is vowel or not | C_Programming | Boolean Functions, Logical OR, Character Handling | [View Code](./CP_CODES/program15.c) |
 ---
 
+
+## PRACTICE_CODES Programs
+_ _ _
+
+| SR. No | Program No | Description | Language | Learnings | Link |
+|--------|------------|-------------|----------|-----------|------|
 ## 📂 Repository Structure
 
 ```bash
