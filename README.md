@@ -8,15 +8,15 @@ _ _ _
 
 | SR. No | Program No | Description | Language | Learnings | Link |
 |--------|------------|-------------|----------|-----------|------|
-| 01 | program01 | Program to divide two numbers | C_Programming | Functions, Return Value, Arithmetic Operations | [View Code](./CP_CODES/program1.c) |
-| 02 | program02 | Print "Marvellous" 5 times | C_Programming | for Loop, Iteration | [View Code](./CP_CODES/program2.c) |
-| 03 | program03 | Print numbers from 5 to 1 | C_Programming | while Loop, Reverse Traversal | [View Code](./CP_CODES/program3.c) |
-| 04 | program04 | Check divisibility by 5 | C_Programming | Modulus Operator, Conditional Statements | [View Code](./CP_CODES/program4.c) |
-| 05 | program05 | Print N stars | C_Programming | Pattern Printing, Looping | [View Code](./CP_CODES/program5.c) |
-| 06 | program06 | Accept one number and print that number of * on screen (using counter variable) | C_Programming | while Loop, Counter Variable, User Input, Iteration | [View Code](./CP_CODES/program6.c) |
-| 07 | program07 | Accept one number and print that number of * on screen (using number decrement) | C_Programming | while Loop, Decrement Operator, Loop Control | [View Code](./CP_CODES/program7.c) |
-| 08 | program08 | Print "Hello" if number is less than 10 otherwise print "Demo" | C_Programming | if-else, Conditional Statements, User Input | [View Code](./CP_CODES/program8.c) |
-| 09 | program09 | Display first number second number of times | C_Programming | for Loop, Frequency Based Output, Nested Logic | [View Code](./CP_CODES/program9.c) |
+| 01 | program01 | Program to divide two numbers | C_Programming | Functions, Return Value, Arithmetic Operations | [View Code](./CP_CODES/program01.c) |
+| 02 | program02 | Print "Marvellous" 5 times | C_Programming | for Loop, Iteration | [View Code](./CP_CODES/program02.c) |
+| 03 | program03 | Print numbers from 5 to 1 | C_Programming | while Loop, Reverse Traversal | [View Code](./CP_CODES/program03.c) |
+| 04 | program04 | Check divisibility by 5 | C_Programming | Modulus Operator, Conditional Statements | [View Code](./CP_CODES/program04.c) |
+| 05 | program05 | Print N stars | C_Programming | Pattern Printing, Looping | [View Code](./CP_CODES/program05.c) |
+| 06 | program06 | Accept one number and print that number of * on screen (using counter variable) | C_Programming | while Loop, Counter Variable, User Input, Iteration | [View Code](./CP_CODES/program06.c) |
+| 07 | program07 | Accept one number and print that number of * on screen (using number decrement) | C_Programming | while Loop, Decrement Operator, Loop Control | [View Code](./CP_CODES/program07.c) |
+| 08 | program08 | Print "Hello" if number is less than 10 otherwise print "Demo" | C_Programming | if-else, Conditional Statements, User Input | [View Code](./CP_CODES/program08.c) |
+| 09 | program09 | Display first number second number of times | C_Programming | for Loop, Frequency Based Output, Nested Logic | [View Code](./CP_CODES/program09.c) |
 | 10 | program10 | Check whether number is Even or Odd | C_Programming | Modulus Operator (%), Boolean Logic, Decision Making | [View Code](./CP_CODES/program10.c) |
 | 11 | program11 | Print first N even numbers | C_Programming | Loops, Even Numbers, Function Design | [View Code](./CP_CODES/program11.c) |
 | 12 | program12 | Print factors of a number | C_Programming | Factors, Modulus Operator, Looping | [View Code](./CP_CODES/program12.c) |
