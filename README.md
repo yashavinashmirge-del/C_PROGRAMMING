@@ -23,6 +23,11 @@ _ _ _
 | 13 | program13 | Print even factors of a number | C_Programming | Factors, Conditional Logic, Modulus Operator | [View Code](./CP_CODES/program13.c) |
 | 14 | program14 | Convert character case | C_Programming | ASCII Values, Character Manipulation, if-else | [View Code](./CP_CODES/program14.c) |
 | 15 | program15 | Check whether character is vowel or not | C_Programming | Boolean Functions, Logical OR, Character Handling | [View Code](./CP_CODES/program15.c) |
+| 16 |	program16 | 	Program to display multiplication of all factors of a number | 	C_Programming	| Factors, Multiplication, Looping, Function Return Value | [View Code](./CP_CODES/program16.c) |
+| 17 | 	program17	| Program to display factors of a number in decreasing order	| C_Programming | 	Factors, Reverse Traversal, Loops, Conditional Logic | [View Code](./CP_CODES/program17.c) |
+| 18 |	program18 |	Program to display all non-factors of a number | C_Programming |	Factors vs Non-Factors, Conditional Statements, Looping	| [View Code](./CP_CODES/program18.c) |
+| 19 |	program19 |	Program to return summation of all non-factors of a number | C_Programming |	Non-Factors, Summation, Accumulator Pattern, Functions | [View Code](./CP_CODES/program19.c) |
+| 20 | 	program20	| Program to return difference between summation of factors and non-factors	| C_Programming |	Factors, Non-Factors, Summation, Arithmetic Operations, Functions	|  [View Code](./CP_CODES/program20.c) |
 ---
 
 
