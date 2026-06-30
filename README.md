@@ -43,7 +43,7 @@ _ _ _
 | 05 | program07 | 	Addition of 2 variables and store it in the 3rd variable  (basic normal how we do with Variable creation with default values) |	C_Programming  |	Variable creation with default values| [View Code](./PRACTICE_CODES/program07.c) |
 | 05 | program08 | 	Addition of 2 variables and store it in the 3rd variable  (basic normal how we do with Variable creation with default values) |	C_Programming  |Create different  function for business logic| [View Code](./PRACTICE_CODES/program08.c) |
 | 06 | program09 | 	Addition of 2 variables and store it in the 3rd variable  (basic normal how we do with Variable creation with default values) |	C_Programming  |Create different  function for business logic| [View Code](./PRACTICE_CODES/program09.c) |
-| 07 | program08 | 	Addition of 2 variables and store it in the 3rd variable  (basic normal how we do with Variable creation with default values) |	C_Programming  | Optimize Code | [View Code](./PRACTICE_CODES/program10.c) |
+| 07 | program10 | 	Addition of 2 variables and store it in the 3rd variable  (basic normal how we do with Variable creation with default values) |	C_Programming  | Optimize Code | [View Code](./PRACTICE_CODES/program10.c) |
 
 
 ## 📂 Repository Structure
