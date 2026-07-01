@@ -48,7 +48,11 @@ _ _ _
 | 08 | program11 | To check whether a number is Even or Odd |	C_Programming  | Basic Code that take a number and check the number and even and odd  | [View Code](./PRACTICE_CODES/program11.c) |
 | 09 | program12 | To check whether a number is Even or Odd |	C_Programming  | Basic Code that take a number and check the number and even and odd  with  different  function for business logic | [View Code](./PRACTICE_CODES/program12.c) |
 | 10 | program13 | To check whether a number is Even or Odd |	C_Programming  | Create different  function for business logic | [View Code](./PRACTICE_CODES/program13.c) |
-| 09 | program14 | To check whether a number is Even or Odd |	C_Programming  | Basic Code that take a number and check the number and even and oddd | [View Code](./PRACTICE_CODES/program14.c) |
+| 11 | program14 | To check whether a number is Even or Odd |	C_Programming  | Basic Code that take a number and check the number and even and oddd | [View Code](./PRACTICE_CODES/program14.c) |
+| 12 | program15 | To check whether a number is Even or Odd |	C_Programming  | Basic Code that take a number and check the number and even and oddd | [View Code](./PRACTICE_CODES/program15.c) |
+| 13 | program16 | To check whether a number is Even or Odd |	C_Programming  | Basic Code that take a number and check the number and even and oddd | [View Code](./PRACTICE_CODES/program16.c) |
+| 14 | program17 | To check whether a number is Even or Odd |	C_Programming  | Basic Code that take a number and check the number and even and oddd | [View Code](./PRACTICE_CODES/program17.c) |
+
 
 ## 📂 Repository Structure
 
