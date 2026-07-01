@@ -52,6 +52,12 @@ _ _ _
 | 12 | program15 | To check whether a number is Even or Odd |	C_Programming  | Basic Code that take a number and check the number and even and oddd | [View Code](./PRACTICE_CODES/program15.c) |
 | 13 | program16 | To check whether a number is Even or Odd |	C_Programming  | Basic Code that take a number and check the number and even and oddd | [View Code](./PRACTICE_CODES/program16.c) |
 | 14 | program17 | To check whether a number is Even or Odd |	C_Programming  | Basic Code that take a number and check the number and even and oddd | [View Code](./PRACTICE_CODES/program17.c) |
+| 15 | program18 | enter your age to calculate ticket prices |	C_Programming  | Basic Code  with  different  function for business logic  | [View Code](./PRACTICE_CODES/program18.c) |
+| 16 | program19 | enter your age to calculate ticket prices |	C_Programming  | Basic Code  with  different  function for business logic   {Input Updator } | [View Code](./PRACTICE_CODES/program19.c) |
+| 17 | program20 | enter your age to calculate ticket prices |	C_Programming  | Basic Code  with  different  function for business logic optimize  { Input Filter} | [View Code](./PRACTICE_CODES/program20.c) |
+| 18 | program21 | enter your age to calculate ticket prices |	C_Programming  | Basic Code  with  different  function for business logic { Input Filter}  optimize | [View Code](./PRACTICE_CODES/program21.c) |
+| 19 | program22 | enter your age to calculate ticket prices |	C_Programming  | Basic Code  with  different  function for business logic { Input Filter} | [View Code](./PRACTICE_CODES/program22.c) |
+| 20 | program23 | enter your age to calculate ticket prices |	C_Programming  | Basic Code  with  different  function for business logic { Input Filter and user-defined macro} | [View Code](./PRACTICE_CODES/program20.c) |
 
 
 ## 📂 Repository Structure
