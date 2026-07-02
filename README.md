@@ -42,45 +42,45 @@ _ _ _
 | 03 | program05 | 	Addition of 2 variables and store it in the 3rd variable  (basic normal how we do with Algorithm) |	C_Programming | 	Basic Addition integer of two numbers /Steps of problem solving | [View Code](./PRACTICE_CODES/program05.c) |
 | 04 | program06 |	Addition of 2 variables and store it in the 3rd variable  (basic normal how we do with Variable creation with default values) |	C_Programming  |	 Variable type changed | [View Code](./PRACTICE_CODES/program06.c) |
 | 05 | program07 | 	Addition of 2 variables and store it in the 3rd variable  (basic normal how we do with Variable creation with default values) |	C_Programming  |	Variable creation with default values| [View Code](./PRACTICE_CODES/program07.c) |
-| 05 | program08 | 	Addition of 2 variables and store it in the 3rd variable  (basic normal how we do with Variable creation with default values) |	C_Programming  | Create different  function for business logic | [View Code](./PRACTICE_CODES/program08.c) |
-| 06 | program09 | 	Addition of 2 variables and store it in the 3rd variable  (basic normal how we do with Variable creation with default values) |	C_Programming  |Create different  function for business logic| [View Code](./PRACTICE_CODES/program09.c) |
-| 07 | program10 | 	Addition of 2 variables and store it in the 3rd variable  (basic normal how we do with Variable creation with default values) |	C_Programming  | Optimize Code | [View Code](./PRACTICE_CODES/program10.c) |
-| 08 | program11 | To check whether a number is Even or Odd |	C_Programming  | Basic Code that take a number and check the number and even and odd  | [View Code](./PRACTICE_CODES/program11.c) |
-| 09 | program12 | To check whether a number is Even or Odd |	C_Programming  | Basic Code that take a number and check the number and even and odd  with  different  function for business logic | [View Code](./PRACTICE_CODES/program12.c) |
-| 10 | program13 | To check whether a number is Even or Odd |	C_Programming  | Create different  function for business logic | [View Code](./PRACTICE_CODES/program13.c) |
-| 11 | program14 | To check whether a number is Even or Odd |	C_Programming  | Basic Code that take a number and check the number and even and oddd | [View Code](./PRACTICE_CODES/program14.c) |
-| 12 | program15 | To check whether a number is Even or Odd |	C_Programming  | Basic Code that take a number and check the number and even and oddd | [View Code](./PRACTICE_CODES/program15.c) |
-| 13 | program16 | To check whether a number is Even or Odd |	C_Programming  | Basic Code that take a number and check the number and even and oddd | [View Code](./PRACTICE_CODES/program16.c) |
-| 14 | program17 | To check whether a number is Even or Odd |	C_Programming  | Basic Code that take a number and check the number and even and oddd | [View Code](./PRACTICE_CODES/program17.c) |
-| 15 | program18 | enter your age to calculate ticket prices |	C_Programming  | Basic Code  with  different  function for business logic  | [View Code](./PRACTICE_CODES/program18.c) |
-| 16 | program19 | enter your age to calculate ticket prices |	C_Programming  | Basic Code  with  different  function for business logic   {Input Updator } | [View Code](./PRACTICE_CODES/program19.c) |
-| 17 | program20 | enter your age to calculate ticket prices |	C_Programming  | Basic Code  with  different  function for business logic optimize  { Input Filter} | [View Code](./PRACTICE_CODES/program20.c) |
-| 18 | program21 | enter your age to calculate ticket prices |	C_Programming  | Basic Code  with  different  function for business logic { Input Filter}  optimize | [View Code](./PRACTICE_CODES/program21.c) |
-| 19 | program22 | enter your age to calculate ticket prices |	C_Programming  | Basic Code  with  different  function for business logic { Input Filter} | [View Code](./PRACTICE_CODES/program22.c) |
-| 20 | program23 | enter your age to calculate ticket prices |	C_Programming  | Basic Code  with  different  function for business logic { Input Filter and user-defined macro} | [View Code](./PRACTICE_CODES/program22.c) |
-| 21 | program24 | printing the Jay Ganesh 4 times using the Sequance |	C_Programming  | use of Sequance | [View Code](./PRACTICE_CODES/program24.c) |
-| 22 | program25 | printing the Jay Ganesh 4 times using the  Iteration |	C_Programming  | use of  Iteration | [View Code](./PRACTICE_CODES/program25.c) |
-| 23 | program26 | printing the Jay Ganesh 4 times using the  for loop/ Iteration |	C_Programming  | use of  loop  and condition change | [View Code](./PRACTICE_CODES/program26.c) |
-| 24 | program27 | printing the Jay Ganesh N times using the  for loop/ Iteration |	C_Programming  | use of  loop   and taking the number of frequence from user | [View Code](./PRACTICE_CODES/program27.c) |
-| 25 | program28 | printing the Jay Ganesh N times using the  for loop/ Iteration |	C_Programming  | use of  loop   and taking the number of frequence from user | [View Code](./PRACTICE_CODES/program28.c) |
-| 26 | program29 | printing the Jay Ganesh N times using the  for loop/ Iteration |	C_Programming  | use of  loop   and taking the number of frequence from user | [View Code](./PRACTICE_CODES/program29.c) |
-| 27 | program30 | printing the Jay Ganesh N times using the  for loop/ Iteration |	C_Programming  | use of  loop   and taking the number of frequence from user | [View Code](./PRACTICE_CODES/program30.c) |
-| 28 | program31 | printing the Jay Ganesh N times using the  for loop/ Iteration |	C_Programming  | use of  loop   and taking the number of frequence from user | [View Code](./PRACTICE_CODES/program31.c) |
-| 29 | program32 | printing the Jay Ganesh N times using the  for loop/ Iteration |	C_Programming  | use of  loop   and taking the number of frequence from user | [View Code](./PRACTICE_CODES/program32.c) |
-| 30 | program33 | printing the Jay Ganesh N times using the  for loop/ Iteration |	C_Programming  | use of  loop   and taking the number of frequence from user | [View Code](./PRACTICE_CODES/program33.c) |
-| 31 | program52 |  take input from user print natural  numbers  till that number (1 to N) |	C_Programming  | use of  loop   and taking the number  from user | [View Code](./PRACTICE_CODES/program52.c) |
-| 39 | program53 |  take input from user print whole   numbers  till that number ( 0 to N)  |	C_Programming  | use of  loop   and taking the number from user | [View Code](./PRACTICE_CODES/program53.c) |
-| 40 | program54 |  take input from user print whole  numbers   that number ( 0 to N-1)  |	C_Programming  | use of  loop   and taking the number from user | [View Code](./PRACTICE_CODES/program54.c) |
-| 41 | program55 |  take input from user  print whole  numbers   that number ( 1 to N-1)  |	C_Programming  | use of  loop   and taking the number from user | [View Code](./PRACTICE_CODES/program55.c) |
-| 42 | program56 |  take input  number from user and   print whole  numbers   that number ( 1 to N-1)  |	C_Programming  | use of  loop   and taking the number  from user | [View Code](./PRACTICE_CODES/program56.c) |
-| 43 | program57 |  take input  number from user and   print whole  numbers in spacing of 2 |	C_Programming  | use of  loop   and taking the number  from user | [View Code](./PRACTICE_CODES/program57.c) |
-| 44 | program58 |  take input  number from user and   print whole  numbers in spacing of 2 |	C_Programming  | use of  loop   and taking the number  from user | [View Code](./PRACTICE_CODES/program58.c) |
-| 45 | program59 |  take input  number from user and   print whole  numbers  in opposite direction(N to 1) |	C_Programming  | use of  loop   and taking the number  from user | [View Code](./PRACTICE_CODES/program59.c) |
-| 46 | program60 |  take input  number from user and   print whole  numbers  in opposite direction (N to 0) |	C_Programming  | use of  loop   and taking the number  from user | [View Code](./PRACTICE_CODES/program60.c) |
-| 47 | program61 |  take input  number from user and   print whole  numbers  in opposite direction (-N to -1) |	C_Programming  | use of  loop   and taking the number  from user | [View Code](./PRACTICE_CODES/program61.c) |
-| 48 | program62 |  take input  number from user and   print whole  numbers  in opposite direction (-N to 0) |	C_Programming  | use of  loop   and taking the number  from user | [View Code](./PRACTICE_CODES/program62.c) |
-| 49 | program63 |  take input  number from user and   print whole  numbers  in opposite direction and jump by 2 (-N  to -1 / jump by 2) |	C_Programming  | use of  loop   and taking the number  from user | [View Code](./PRACTICE_CODES/program63.c) |
-| 50 | program64 |  take input  number from user and   print whole  numbers   (-N  to N) |	C_Programming  | use of  loop   and taking the number  from user | [View Code](./PRACTICE_CODES/program64.c) |
+| 06 | program08 | 	Addition of 2 variables and store it in the 3rd variable  (basic normal how we do with Variable creation with default values) |	C_Programming  | Create different  function for business logic | [View Code](./PRACTICE_CODES/program08.c) |
+| 07 | program09 | 	Addition of 2 variables and store it in the 3rd variable  (basic normal how we do with Variable creation with default values) |	C_Programming  |Create different  function for business logic| [View Code](./PRACTICE_CODES/program09.c) |
+| 08 | program10 | 	Addition of 2 variables and store it in the 3rd variable  (basic normal how we do with Variable creation with default values) |	C_Programming  | Optimize Code | [View Code](./PRACTICE_CODES/program10.c) |
+| 09 | program11 | To check whether a number is Even or Odd |	C_Programming  | Basic Code that take a number and check the number and even and odd  | [View Code](./PRACTICE_CODES/program11.c) |
+| 10 | program12 | To check whether a number is Even or Odd |	C_Programming  | Basic Code that take a number and check the number and even and odd  with  different  function for business logic | [View Code](./PRACTICE_CODES/program12.c) |
+| 11 | program13 | To check whether a number is Even or Odd |	C_Programming  | Create different  function for business logic | [View Code](./PRACTICE_CODES/program13.c) |
+| 12 | program14 | To check whether a number is Even or Odd |	C_Programming  | Basic Code that take a number and check the number and even and oddd | [View Code](./PRACTICE_CODES/program14.c) |
+| 13 | program15 | To check whether a number is Even or Odd |	C_Programming  | Basic Code that take a number and check the number and even and oddd | [View Code](./PRACTICE_CODES/program15.c) |
+| 14 | program16 | To check whether a number is Even or Odd |	C_Programming  | Basic Code that take a number and check the number and even and oddd | [View Code](./PRACTICE_CODES/program16.c) |
+| 15 | program17 | To check whether a number is Even or Odd |	C_Programming  | Basic Code that take a number and check the number and even and oddd | [View Code](./PRACTICE_CODES/program17.c) |
+| 16 | program18 | enter your age to calculate ticket prices |	C_Programming  | Basic Code  with  different  function for business logic  | [View Code](./PRACTICE_CODES/program18.c) |
+| 17 | program19 | enter your age to calculate ticket prices |	C_Programming  | Basic Code  with  different  function for business logic   {Input Updator } | [View Code](./PRACTICE_CODES/program19.c) |
+| 18 | program20 | enter your age to calculate ticket prices |	C_Programming  | Basic Code  with  different  function for business logic optimize  { Input Filter} | [View Code](./PRACTICE_CODES/program20.c) |
+| 19 | program21 | enter your age to calculate ticket prices |	C_Programming  | Basic Code  with  different  function for business logic { Input Filter}  optimize | [View Code](./PRACTICE_CODES/program21.c) |
+| 20 | program22 | enter your age to calculate ticket prices |	C_Programming  | Basic Code  with  different  function for business logic { Input Filter} | [View Code](./PRACTICE_CODES/program22.c) |
+| 21 | program23 | enter your age to calculate ticket prices |	C_Programming  | Basic Code  with  different  function for business logic { Input Filter and user-defined macro} | [View Code](./PRACTICE_CODES/program22.c) |
+| 22 | program24 | printing the Jay Ganesh 4 times using the Sequance |	C_Programming  | use of Sequance | [View Code](./PRACTICE_CODES/program24.c) |
+| 23 | program25 | printing the Jay Ganesh 4 times using the  Iteration |	C_Programming  | use of  Iteration | [View Code](./PRACTICE_CODES/program25.c) |
+| 24 | program26 | printing the Jay Ganesh 4 times using the  for loop/ Iteration |	C_Programming  | use of  loop  and condition change | [View Code](./PRACTICE_CODES/program26.c) |
+| 25 | program27 | printing the Jay Ganesh N times using the  for loop/ Iteration |	C_Programming  | use of  loop   and taking the number of frequence from user | [View Code](./PRACTICE_CODES/program27.c) |
+| 26 | program28 | printing the Jay Ganesh N times using the  for loop/ Iteration |	C_Programming  | use of  loop   and taking the number of frequence from user | [View Code](./PRACTICE_CODES/program28.c) |
+| 27 | program29 | printing the Jay Ganesh N times using the  for loop/ Iteration |	C_Programming  | use of  loop   and taking the number of frequence from user | [View Code](./PRACTICE_CODES/program29.c) |
+| 28 | program30 | printing the Jay Ganesh N times using the  for loop/ Iteration |	C_Programming  | use of  loop   and taking the number of frequence from user | [View Code](./PRACTICE_CODES/program30.c) |
+| 29 | program31 | printing the Jay Ganesh N times using the  for loop/ Iteration |	C_Programming  | use of  loop   and taking the number of frequence from user | [View Code](./PRACTICE_CODES/program31.c) |
+| 30 | program32 | printing the Jay Ganesh N times using the  for loop/ Iteration |	C_Programming  | use of  loop   and taking the number of frequence from user | [View Code](./PRACTICE_CODES/program32.c) |
+| 31 | program33 | printing the Jay Ganesh N times using the  for loop/ Iteration |	C_Programming  | use of  loop   and taking the number of frequence from user | [View Code](./PRACTICE_CODES/program33.c) |
+| 32 | program52 |  take input from user print natural  numbers  till that number (1 to N) |	C_Programming  | use of  loop   and taking the number  from user | [View Code](./PRACTICE_CODES/program52.c) |
+| 33 | program53 |  take input from user print whole   numbers  till that number ( 0 to N)  |	C_Programming  | use of  loop   and taking the number from user | [View Code](./PRACTICE_CODES/program53.c) |
+| 34 | program54 |  take input from user print whole  numbers   that number ( 0 to N-1)  |	C_Programming  | use of  loop   and taking the number from user | [View Code](./PRACTICE_CODES/program54.c) |
+| 35 | program55 |  take input from user  print whole  numbers   that number ( 1 to N-1)  |	C_Programming  | use of  loop   and taking the number from user | [View Code](./PRACTICE_CODES/program55.c) |
+| 36 | program56 |  take input  number from user and   print whole  numbers   that number ( 1 to N-1)  |	C_Programming  | use of  loop   and taking the number  from user | [View Code](./PRACTICE_CODES/program56.c) |
+| 37 | program57 |  take input  number from user and   print whole  numbers in spacing of 2 |	C_Programming  | use of  loop   and taking the number  from user | [View Code](./PRACTICE_CODES/program57.c) |
+| 38 | program58 |  take input  number from user and   print whole  numbers in spacing of 2 |	C_Programming  | use of  loop   and taking the number  from user | [View Code](./PRACTICE_CODES/program58.c) |
+| 39 | program59 |  take input  number from user and   print whole  numbers  in opposite direction(N to 1) |	C_Programming  | use of  loop   and taking the number  from user | [View Code](./PRACTICE_CODES/program59.c) |
+| 40 | program60 |  take input  number from user and   print whole  numbers  in opposite direction (N to 0) |	C_Programming  | use of  loop   and taking the number  from user | [View Code](./PRACTICE_CODES/program60.c) |
+| 41 | program61 |  take input  number from user and   print whole  numbers  in opposite direction (-N to -1) |	C_Programming  | use of  loop   and taking the number  from user | [View Code](./PRACTICE_CODES/program61.c) |
+| 42 | program62 |  take input  number from user and   print whole  numbers  in opposite direction (-N to 0) |	C_Programming  | use of  loop   and taking the number  from user | [View Code](./PRACTICE_CODES/program62.c) |
+| 43 | program63 |  take input  number from user and   print whole  numbers  in opposite direction and jump by 2 (-N  to -1 / jump by 2) |	C_Programming  | use of  loop   and taking the number  from user | [View Code](./PRACTICE_CODES/program63.c) |
+| 44 | program64 |  take input  number from user and   print whole  numbers   (-N  to N) |	C_Programming  | use of  loop   and taking the number  from user | [View Code](./PRACTICE_CODES/program64.c) |
 
 
 
