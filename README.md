@@ -62,6 +62,13 @@ _ _ _
 | 22 | program25 | printing the Jay Ganesh 4 times using the  Iteration |	C_Programming  | use of  Iteration | [View Code](./PRACTICE_CODES/program25.c) |
 | 23 | program26 | printing the Jay Ganesh 4 times using the  for loop/ Iteration |	C_Programming  | use of  loop  and condition change | [View Code](./PRACTICE_CODES/program26.c) |
 | 24 | program27 | printing the Jay Ganesh N times using the  for loop/ Iteration |	C_Programming  | use of  loop   and taking the number of frequence from user | [View Code](./PRACTICE_CODES/program27.c) |
+| 25 | program28 | printing the Jay Ganesh N times using the  for loop/ Iteration |	C_Programming  | use of  loop   and taking the number of frequence from user | [View Code](./PRACTICE_CODES/program28.c) |
+| 26 | program29 | printing the Jay Ganesh N times using the  for loop/ Iteration |	C_Programming  | use of  loop   and taking the number of frequence from user | [View Code](./PRACTICE_CODES/program29.c) |
+| 27 | program30 | printing the Jay Ganesh N times using the  for loop/ Iteration |	C_Programming  | use of  loop   and taking the number of frequence from user | [View Code](./PRACTICE_CODES/program30.c) |
+| 28 | program31 | printing the Jay Ganesh N times using the  for loop/ Iteration |	C_Programming  | use of  loop   and taking the number of frequence from user | [View Code](./PRACTICE_CODES/program31.c) |
+| 29 | program32 | printing the Jay Ganesh N times using the  for loop/ Iteration |	C_Programming  | use of  loop   and taking the number of frequence from user | [View Code](./PRACTICE_CODES/program32.c) |
+| 30 | program33 | printing the Jay Ganesh N times using the  for loop/ Iteration |	C_Programming  | use of  loop   and taking the number of frequence from user | [View Code](./PRACTICE_CODES/program33.c) |
+| 31 | program34 | printing the Jay Ganesh N times using the  for loop/ Iteration |	C_Programming  | use of  loop   and taking the number of frequence from user | [View Code](./PRACTICE_CODES/program34.c) |
 
 
 
