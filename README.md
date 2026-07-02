@@ -57,7 +57,16 @@ _ _ _
 | 17 | program20 | enter your age to calculate ticket prices |	C_Programming  | Basic Code  with  different  function for business logic optimize  { Input Filter} | [View Code](./PRACTICE_CODES/program20.c) |
 | 18 | program21 | enter your age to calculate ticket prices |	C_Programming  | Basic Code  with  different  function for business logic { Input Filter}  optimize | [View Code](./PRACTICE_CODES/program21.c) |
 | 19 | program22 | enter your age to calculate ticket prices |	C_Programming  | Basic Code  with  different  function for business logic { Input Filter} | [View Code](./PRACTICE_CODES/program22.c) |
-| 20 | program23 | enter your age to calculate ticket prices |	C_Programming  | Basic Code  with  different  function for business logic { Input Filter and user-defined macro} | [View Code](./PRACTICE_CODES/program20.c) |
+| 20 | program23 | enter your age to calculate ticket prices |	C_Programming  | Basic Code  with  different  function for business logic { Input Filter and user-defined macro} | [View Code](./PRACTICE_CODES/program22.c) |
+| 21 | program24 | printing the Jay Ganesh 4 times using the Sequance |	C_Programming  | use of Sequance | [View Code](./PRACTICE_CODES/program24.c) |
+| 22 | program25 | printing the Jay Ganesh 4 times using the  Iteration |	C_Programming  | use of  Iteration | [View Code](./PRACTICE_CODES/program25.c) |
+| 23 | program26 | printing the Jay Ganesh 4 times using the  for loop/ Iteration |	C_Programming  | use of  loop  and condition change | [View Code](./PRACTICE_CODES/program26.c) |
+| 24 | program27 | printing the Jay Ganesh N times using the  for loop/ Iteration |	C_Programming  | use of  loop   and taking the number of frequence from user | [View Code](./PRACTICE_CODES/program27.c) |
+
+
+
+
+
 
 
 ## 📂 Repository Structure
