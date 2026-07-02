@@ -68,7 +68,24 @@ _ _ _
 | 28 | program31 | printing the Jay Ganesh N times using the  for loop/ Iteration |	C_Programming  | use of  loop   and taking the number of frequence from user | [View Code](./PRACTICE_CODES/program31.c) |
 | 29 | program32 | printing the Jay Ganesh N times using the  for loop/ Iteration |	C_Programming  | use of  loop   and taking the number of frequence from user | [View Code](./PRACTICE_CODES/program32.c) |
 | 30 | program33 | printing the Jay Ganesh N times using the  for loop/ Iteration |	C_Programming  | use of  loop   and taking the number of frequence from user | [View Code](./PRACTICE_CODES/program33.c) |
-| 31 | program77 | printing the Jay Ganesh N times using the  for loop/ Iteration |	C_Programming  | use of  loop   and taking the number of frequence from user | [View Code](./PRACTICE_CODES/program34.c) |
+| 31 | program52 |  take input from user print natural  numbers  till that number (1 to N) |	C_Programming  | use of  loop   and taking the number  from user | [View Code](./PRACTICE_CODES/program52.c) |
+| 39 | program53 |  take input from user print whole   numbers  till that number ( 0 to N)  |	C_Programming  | use of  loop   and taking the number from user | [View Code](./PRACTICE_CODES/program53.c) |
+| 40 | program54 |  take input from user print whole  numbers   that number ( 0 to N-1)  |	C_Programming  | use of  loop   and taking the number from user | [View Code](./PRACTICE_CODES/program54.c) |
+| 41 | program55 |  take input from user  print whole  numbers   that number ( 1 to N-1)  |	C_Programming  | use of  loop   and taking the number from user | [View Code](./PRACTICE_CODES/program55.c) |
+| 42 | program56 |  take input  number from user and   print whole  numbers   that number ( 1 to N-1)  |	C_Programming  | use of  loop   and taking the number  from user | [View Code](./PRACTICE_CODES/program56.c) |
+| 43 | program57 |  take input  number from user and   print whole  numbers in spacing of 2 |	C_Programming  | use of  loop   and taking the number  from user | [View Code](./PRACTICE_CODES/program57.c) |
+| 44 | program58 |  take input  number from user and   print whole  numbers in spacing of 2 |	C_Programming  | use of  loop   and taking the number  from user | [View Code](./PRACTICE_CODES/program58.c) |
+| 45 | program59 |  take input  number from user and   print whole  numbers  in opposite direction(N to 1) |	C_Programming  | use of  loop   and taking the number  from user | [View Code](./PRACTICE_CODES/program59.c) |
+| 46 | program60 |  take input  number from user and   print whole  numbers  in opposite direction (N to 0) |	C_Programming  | use of  loop   and taking the number  from user | [View Code](./PRACTICE_CODES/program60.c) |
+| 47 | program61 |  take input  number from user and   print whole  numbers  in opposite direction (-N to -1) |	C_Programming  | use of  loop   and taking the number  from user | [View Code](./PRACTICE_CODES/program61.c) |
+| 48 | program62 |  take input  number from user and   print whole  numbers  in opposite direction (-N to 0) |	C_Programming  | use of  loop   and taking the number  from user | [View Code](./PRACTICE_CODES/program62.c) |
+| 49 | program63 |  take input  number from user and   print whole  numbers  in opposite direction and jump by 2 (-N  to -1 / jump by 2) |	C_Programming  | use of  loop   and taking the number  from user | [View Code](./PRACTICE_CODES/program63.c) |
+| 50 | program64 |  take input  number from user and   print whole  numbers   (-N  to N) |	C_Programming  | use of  loop   and taking the number  from user | [View Code](./PRACTICE_CODES/program64.c) |
+
+
+
+
+
 
 
 
