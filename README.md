@@ -81,8 +81,12 @@ _ _ _
 | 42 | program62 |  take input  number from user and   print whole  numbers  in opposite direction (-N to 0) |	C_Programming  | use of  loop   and taking the number  from user | [View Code](./PRACTICE_CODES/program62.c) |
 | 43 | program63 |  take input  number from user and   print whole  numbers  in opposite direction and jump by 2 (-N  to -1 / jump by 2) |	C_Programming  | use of  loop   and taking the number  from user | [View Code](./PRACTICE_CODES/program63.c) |
 | 44 | program64 |  take input  number from user and   print whole  numbers   (-N  to N) |	C_Programming  | use of  loop   and taking the number  from user | [View Code](./PRACTICE_CODES/program64.c) |
-| 45 | program70 |  print Jay Ganesh  using loop  |	C_Programming  | use of  loop | [View Code](./PRACTICE_CODES/program70.c) |
-| 46 | program71 |  print Jay Ganesh  using loop  |	C_Programming  | use of  loop | [View Code](./PRACTICE_CODES/program71.c) |
+| 45 | program70 |  print Jay Ganesh  using loop  |	C_Programming  | use of loop | [View Code](./PRACTICE_CODES/program70.c) |
+| 46 | program71 |  print Jay Ganesh  using loop  |	C_Programming  | use of loop | [View Code](./PRACTICE_CODES/program71.c) |
+| 47 | program72 |  print Jay Ganesh  using loop  |	C_Programming  | use of loop | [View Code](./PRACTICE_CODES/program72.c) |
+| 48 | program73 |  print 1 to 5 number  using  while loop  |	C_Programming  | use of loop | [View Code](./PRACTICE_CODES/program73.c) |
+| 49 | program74 |  print 5 to 1 number  using  while loop  |	C_Programming  | use of loop | [View Code](./PRACTICE_CODES/program74.c) |
+| 50 | program75 |  print  seperate digits of number using sequence    |	C_Programming  | use of loop | [View Code](./PRACTICE_CODES/program75.c) |
 
 
 
