@@ -33,8 +33,9 @@ _ _ _
 ---
 
 ## PRACTICE_CODES Programs
-_ _ _
 
+
+ NUMBERS/DIGITS
 | SR. No | Program No | Description | Language | Learnings | Link |
 |--------|------------|-------------|----------|-----------|------|
 | 01 | program01 |	print "Jay Ganesh" on screen by using C_Programming |	C_Programming|	Basic Trial of environment setup...| [View Code](./PRACTICE_CODES/program01.c) |
@@ -90,8 +91,6 @@ _ _ _
 | 51 | program76 |  print  seperate digits of number using  while loop |	C_Programming  | use of loop | [View Code](./PRACTICE_CODES/program76.c) |
 | 52 | program77 |  print  seperate digits of number using while loop  |	C_Programming  | Create different  function for business logic |   [View Code](./PRACTICE_CODES/program77.c) |
 | 53 | program78 |  print  seperate digits of number using while loop  |	C_Programming  | Create different  function for business logic |   [View Code](./PRACTICE_CODES/program78.c) |
-
-
 
 
 
