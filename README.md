@@ -88,8 +88,8 @@ _ _ _
 | 49 | program74 |  print 5 to 1 number  using  while loop  |	C_Programming  | use of loop | [View Code](./PRACTICE_CODES/program74.c) |
 | 50 | program75 |  print  seperate digits of number using sequence    |	C_Programming  | Basic code using sequence | [View Code](./PRACTICE_CODES/program75.c) |
 | 51 | program76 |  print  seperate digits of number using  while loop |	C_Programming  | use of loop | [View Code](./PRACTICE_CODES/program76.c) |
-| 52 | program77 |  print  seperate digits of number using while loop  |	C_Programming  | Create different  function for business logic |  | [View Code](./PRACTICE_CODES/program77.c) |
-| 53 | program78 |  print  seperate digits of number using while loop  |	C_Programming  | Create different  function for business logic |  | [View Code](./PRACTICE_CODES/program78.c) |
+| 52 | program77 |  print  seperate digits of number using while loop  |	C_Programming  | Create different  function for business logic |   [View Code](./PRACTICE_CODES/program77.c) |
+| 53 | program78 |  print  seperate digits of number using while loop  |	C_Programming  | Create different  function for business logic |   [View Code](./PRACTICE_CODES/program78.c) |
 
 
 
