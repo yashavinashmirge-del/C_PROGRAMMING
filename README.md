@@ -34,7 +34,7 @@ A collection of C programming programs covering concepts, practice problems, and
 ## PRACTICE_CODES Programs
 
 
- NUMBERS/DIGITS
+###  NUMBERS/DIGITS/LOOPS
 | SR. No | Program No | Description | Language | Learnings | Link |
 |--------|------------|-------------|----------|-----------|------|
 | 01 | program01 |	print "Jay Ganesh" on screen by using C_Programming |	C_Programming|	Basic Trial of environment setup...| [View Code](./PRACTICE_CODES/program01.c) |
