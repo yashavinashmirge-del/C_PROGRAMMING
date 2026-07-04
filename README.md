@@ -4,7 +4,6 @@ A collection of C programming programs covering concepts, practice problems, and
 
 
 ## CP_CODES Programs
-_ _ _
 
 | SR. No | Program No | Description | Language | Learnings | Link |
 |--------|------------|-------------|----------|-----------|------|
