@@ -38,7 +38,7 @@ A collection of C programming programs covering concepts, practice problems, and
 ## PRACTICE_CODES Programs
 
 
-###  NUMBERS/DIGITS/LOOPS
+##  NUMBERS/DIGITS/LOOPS
 | SR. No | Program No | Description | Language | Learnings | Link |
 |--------|------------|-------------|----------|-----------|------|
 | 01 | program01 |	print "Jay Ganesh" on screen by using C_Programming |	C_Programming|	Basic Trial of environment setup...| [View Code](./PRACTICE_CODES/program01.c) |
@@ -95,7 +95,7 @@ A collection of C programming programs covering concepts, practice problems, and
 | 52 | program77 |  print  seperate digits of number using while loop  |	C_Programming  | Create different  function for business logic |   [View Code](./PRACTICE_CODES/program77.c) |
 | 53 | program78 |  print  seperate digits of number using while loop  |	C_Programming  | Create different  function for business logic |   [View Code](./PRACTICE_CODES/program78.c) |
 
-### ARRAY
+## ARRAY
 | SR. No | Program No | Description | Language | Learnings | Link |
 |--------|------------|-------------|----------|-----------|------|
 | 54 | program94 | display base address of array | C_Programming | introduction to array name as base address | [View Code](./PRACTICE_CODES/program94.c) |
@@ -140,7 +140,7 @@ A collection of C programming programs covering concepts, practice problems, and
 
 
 
-### LINKED_LIST
+## LINKED_LIST
 | SR. No | Program No | Description | Language | Learnings | Link |
 |--------|------------|-------------|----------|-----------|------|
 | - | program351 | display size of linked list node structure | C_Programming | introduction to linked list node structure and sizeof() operator | [View Code](./PRACTICE_CODES/program351.c) |
