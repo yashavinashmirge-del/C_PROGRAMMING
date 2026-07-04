@@ -29,6 +29,10 @@ A collection of C programming programs covering concepts, practice problems, and
 | 20 | program20 | Program to return difference between summation of factors and non-factors	| C_Programming |	Factors, Non-Factors, Summation, Arithmetic Operations, Functions	|  [View Code](./CP_CODES/program20.c) |
 
 
+
+
+
+
 ---
 
 ## PRACTICE_CODES Programs
@@ -90,6 +94,69 @@ A collection of C programming programs covering concepts, practice problems, and
 | 51 | program76 |  print  seperate digits of number using  while loop |	C_Programming  | use of loop | [View Code](./PRACTICE_CODES/program76.c) |
 | 52 | program77 |  print  seperate digits of number using while loop  |	C_Programming  | Create different  function for business logic |   [View Code](./PRACTICE_CODES/program77.c) |
 | 53 | program78 |  print  seperate digits of number using while loop  |	C_Programming  | Create different  function for business logic |   [View Code](./PRACTICE_CODES/program78.c) |
+
+### ARRAY
+| SR. No | Program No | Description | Language | Learnings | Link |
+|--------|------------|-------------|----------|-----------|------|
+| 54 | program94 | display base address of array | C_Programming | introduction to array name as base address | [View Code](./PRACTICE_CODES/program94.c) |
+| 55 | program95 | display size of array | C_Programming | use of sizeof() operator with array | [View Code](./PRACTICE_CODES/program95.c) |
+| 56 | program96 | initialize selected array elements | C_Programming | partial array initialization and garbage values | [View Code](./PRACTICE_CODES/program96.c) |
+| 57 | program97 | initialize global array elements | C_Programming | default initialization of global array | [View Code](./PRACTICE_CODES/program97.c) |
+| 58 | program98 | display array elements using direct indexing | C_Programming | static array traversal using index | [View Code](./PRACTICE_CODES/program98.c) |
+| 59 | program99 | display array elements using for loop | C_Programming | array traversal using iteration | [View Code](./PRACTICE_CODES/program99.c) |
+| 60 | program100 | accept and display array elements | C_Programming | array input using scanf() and display using loop | [View Code](./PRACTICE_CODES/program100.c) |
+| 61 | program101 | accept and display array elements optimize code | C_Programming | array input using loop and scanf() | [View Code](./PRACTICE_CODES/program101.c) |
+| 62 | program102 | demonstrate call by value | C_Programming | function call using value parameter | [View Code](./PRACTICE_CODES/program102.c) |
+| 63 | program103 | demonstrate call by address | C_Programming | function call using pointer parameter | [View Code](./PRACTICE_CODES/program103.c) |
+| 64 | program104 | pass array to function | C_Programming | array name passed as pointer to function | [View Code](./PRACTICE_CODES/program104.c) |
+| 65 | program105 | access first element of array in function | C_Programming | dereferencing array pointer in function | [View Code](./PRACTICE_CODES/program105.c) |
+| 66 | program106 | traverse array using pointer arithmetic | C_Programming | array traversal using pointer increment | [View Code](./PRACTICE_CODES/program106.c) |
+| 67 | program107 | traverse array using array parameter | C_Programming | array parameter representation using [] | [View Code](./PRACTICE_CODES/program107.c) |
+| 68 | program108 | traverse array using array variable name | C_Programming | array traversal using array notation in function | [View Code](./PRACTICE_CODES/program108.c) |
+| 69 | program109 | display array elements in function | C_Programming | array traversal using indexing in function | [View Code](./PRACTICE_CODES/program109.c) |
+| 70 | program110 | display array elements in function using loop | C_Programming | array traversal using iteration in function | [View Code](./PRACTICE_CODES/program110.c) |
+| 71 | program111 | demonstrate issue while passing array to function | C_Programming | array size limitation and function parameter issue | [View Code](./PRACTICE_CODES/program111.c) |
+| 72 | program112 | display array elements in function using fixed size | C_Programming | array traversal using fixed size array parameter | [View Code](./PRACTICE_CODES/program112.c) |
+| 73 | program113 | demonstrate issue while passing smaller array to function | C_Programming | array out of bound access issue in function | [View Code](./PRACTICE_CODES/program113.c) |
+| 74 | program114 | display array elements using array size parameter | C_Programming | pass array size to function for safe traversal | [View Code](./PRACTICE_CODES/program114.c) |
+| 75 | program115 | demonstrate issue with variable length array initialization | C_Programming | variable length array initialization limitation | [View Code](./PRACTICE_CODES/program115.c) |
+| 76 | program116 | create variable length array and display elements | C_Programming | use of variable length array | [View Code](./PRACTICE_CODES/program116.c) |
+| 77 | program117 | accept and display variable length array elements | C_Programming | use of variable length array with user input | [View Code](./PRACTICE_CODES/program117.c) |
+| 78 | program118 | calculate summation of array elements | C_Programming | code with Business Logic in different function | [View Code](./PRACTICE_CODES/program118.c) |
+| 79 | program119 | allocate dynamic memory for array | C_Programming | use of malloc() and free() for dynamic memory allocation | [View Code](./PRACTICE_CODES/program119.c) |
+| 80 | program120 | accept dynamic array elements from user | C_Programming | dynamic memory allocation using malloc() | [View Code](./PRACTICE_CODES/program120.c) |
+| 81 | program121 | display dynamic array elements | C_Programming | code with Business Logic in different function | [View Code](./PRACTICE_CODES/program121.c) |
+| 82 | program122 | calculate summation of dynamic array elements | C_Programming | code with Business Logic in different function | [View Code](./PRACTICE_CODES/program122.c) |
+| 83 | program123 | calculate summation of dynamic array elements optimize code | C_Programming | code with Business Logic in different function | [View Code](./PRACTICE_CODES/program123.c) |
+| 84 | program124 | count even elements from array | C_Programming | code with Business Logic in different function | [View Code](./PRACTICE_CODES/program124.c) |
+| 85 | program125 | calculate summation of even elements from array | C_Programming | code with Business Logic in different function | [View Code](./PRACTICE_CODES/program125.c) |
+| 86 | program126 | count odd elements from array | C_Programming | code with Business Logic in different function | [View Code](./PRACTICE_CODES/program126.c) |
+| 87 | program127 | count frequency of element from array | C_Programming | code with Business Logic in different function | [View Code](./PRACTICE_CODES/program127.c) |
+| 88 | program128 | search element from array using linear search | C_Programming | code with Business Logic in different function[bad programming practice] | [View Code](./PRACTICE_CODES/program128.c) |
+| 89 | program129 | search element from array using linear search optimize code | C_Programming | code with Business Logic in different function[flag and break statement] | [View Code](./PRACTICE_CODES/program129.c) |
+| 90 | program130 | search user defined element from array using linear search | C_Programming | code with Business Logic in different function[user input search element] | [View Code](./PRACTICE_CODES/program130.c) |
+| 91 | program131 | search user defined element from array using linear search optimize code | C_Programming | code with Business Logic in different function[time complexity O(N)] | [View Code](./PRACTICE_CODES/program131.c) |
+
+
+
+
+### LINKED_LIST
+| SR. No | Program No | Description | Language | Learnings | Link |
+|--------|------------|-------------|----------|-----------|------|
+| - | program351 | display size of linked list node structure | C_Programming | introduction to linked list node structure and sizeof() operator | [View Code](./PRACTICE_CODES/program351.c) |
+| - | program352 | display size of linked list node structure | C_Programming | introduction to linked list node structure and sizeof() operator | [View Code](./PRACTICE_CODES/program352.c) |
+| - | program353 | initialize and display single linked list node | C_Programming | introduction to linked list node initialization | [View Code](./PRACTICE_CODES/program353.c) |
+| - | program354 | create two node linked list manually | C_Programming | introduction to linking nodes using pointer | [View Code](./PRACTICE_CODES/program354.c) |
+| - | program355 | access linked list node using next pointer | C_Programming | use of arrow operator and node traversal | [View Code](./PRACTICE_CODES/program355.c) |
+| - | program356 | create three node linked list manually | C_Programming | linked list traversal using next pointer | [View Code](./PRACTICE_CODES/program356.c) |
+| - | program357 | create three node linked list using head pointer | C_Programming | introduction to head pointer in linked list | [View Code](./PRACTICE_CODES/program357.c) |
+| - | program358 | create three node linked list using typedef | C_Programming | use of typedef with linked list structure | [View Code](./PRACTICE_CODES/program358.c) |
+| - | program359 | create three node linked list using PNODE | C_Programming | use of typedef for pointer to structure | [View Code](./PRACTICE_CODES/program359.c) |
+| - | program360 | traverse linked list using temp pointer | C_Programming | creation and use of temporary pointer | [View Code](./PRACTICE_CODES/program360.c) |
+| - | program361 | traverse linked list using sequence | C_Programming | linked list traversal using sequential movement of temp pointer | [View Code](./PRACTICE_CODES/program361.c) |
+| - | program362 | display linked list using temp pointer | C_Programming | preserve head pointer during traversal | [View Code](./PRACTICE_CODES/program362.c) |
+| - | program363 | count number of nodes in linked list | C_Programming | linked list traversal using iteration | [View Code](./PRACTICE_CODES/program363.c) |
+| - | program364 | create linked list node using dynamic memory allocation | C_Programming | use of malloc() for dynamic memory allocation | [View Code](./PRACTICE_CODES/program364.c) |
 
 
 
