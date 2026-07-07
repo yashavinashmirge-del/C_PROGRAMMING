@@ -5,7 +5,7 @@ A collection of C programming programs covering concepts, practice problems, and
 
 ## CP_CODES Programs
 
-
+##  NUMBERS/DIGITS/LOOPS
 
 | SR. No | Program No | Description | Language | Learnings | Link |
 |--------|------------|-------------|----------|-----------|------|
