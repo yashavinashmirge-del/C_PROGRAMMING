@@ -5,6 +5,8 @@ A collection of C programming programs covering concepts, practice problems, and
 
 ## CP_CODES Programs
 
+## NUMBERS/Digits
+
 | SR. No | Program No | Description | Language | Learnings | Link |
 |--------|------------|-------------|----------|-----------|------|
 | 01 | program01 | Program to divide two numbers | C_Programming | Functions, Return Value, Arithmetic Operations | [View Code](./CP_CODES/program01.c) |
@@ -27,6 +29,19 @@ A collection of C programming programs covering concepts, practice problems, and
 | 18 | program18 |	Program to display all non-factors of a number | C_Programming |	Factors vs Non-Factors, Conditional Statements, Looping	| [View Code](./CP_CODES/program18.c) |
 | 19 | program19 |	Program to return summation of all non-factors of a number | C_Programming |	Non-Factors, Summation, Accumulator Pattern, Functions | [View Code](./CP_CODES/program19.c) |
 | 20 | program20 | Program to return difference between summation of factors and non-factors	| C_Programming |	Factors, Non-Factors, Summation, Arithmetic Operations, Functions	|  [View Code](./CP_CODES/program20.c) |
+
+
+## Pattern Printing 
+| SR. No | Program No | Description | Language | Learnings | Link |
+|--------|------------|-------------|----------|-----------|------|
+| 21 | program21 |  Pattern Printing ($  *) for  N number accept from user	| C_Programming |	we can use for loop to print the pattern and also we can use if else statement to print the pattern according to the condition.	|  [View Code](./CP_CODES/program21.c) |
+| 22 | program22 |  Pattern Printing (1 to N) where  N number accept from user	| C_Programming |	 use of for loop and if else statement.	|  [View Code](./CP_CODES/program22.c) |
+| 23 | program23 |  Pattern Printing (-N to N) where  N number accept from user	| C_Programming |1.  How to use for loop to display pattern
+2. How to use for loop to display pattern in reverse order {with one for loop..}	|  [View Code](./CP_CODES/program23.c) |
+| 24 | program24 |    Write a program which accept number from user and display  all odd numbers.	| C_Programming |use of if loop	|  [View Code](./CP_CODES/program24.c) |
+| 25 | program25 |  Write a program which accept number from user and display first 5 multiples of that number.  | C_Programming |Display first 5 multiples of that number|  [View Code](./CP_CODES/program25.c) |
+
+
 
 
 
