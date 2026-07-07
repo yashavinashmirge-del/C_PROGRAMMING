@@ -5,7 +5,7 @@ A collection of C programming programs covering concepts, practice problems, and
 
 ## CP_CODES Programs
 
-## NUMBERS/Digits
+
 
 | SR. No | Program No | Description | Language | Learnings | Link |
 |--------|------------|-------------|----------|-----------|------|
@@ -30,8 +30,7 @@ A collection of C programming programs covering concepts, practice problems, and
 | 19 | program19 |	Program to return summation of all non-factors of a number | C_Programming |	Non-Factors, Summation, Accumulator Pattern, Functions | [View Code](./CP_CODES/program19.c) |
 | 20 | program20 | Program to return difference between summation of factors and non-factors	| C_Programming |	Factors, Non-Factors, Summation, Arithmetic Operations, Functions	|  [View Code](./CP_CODES/program20.c) |
 
-
-## Pattern Printing 
+## Pattern Printing
 | SR. No | Program No | Description | Language | Learnings | Link |
 |--------|------------|-------------|----------|-----------|------|
 | 21 | program21 |  Pattern Printing ($  *) for  N number accept from user	| C_Programming |	we can use for loop to print the pattern and also we can use if else statement to print the pattern according to the condition.	|  [View Code](./CP_CODES/program21.c) |
@@ -39,6 +38,19 @@ A collection of C programming programs covering concepts, practice problems, and
 | 23 | program23 |  Pattern Printing (-N to N) where  N number accept from user	| C_Programming |How to use for loop to display pattern How to use for loop to display pattern in reverse order {with one for loop..}	|  [View Code](./CP_CODES/program23.c) |
 | 24 | program24 |    Write a program which accept number from user and display  all odd numbers.	| C_Programming |use of if loop	|  [View Code](./CP_CODES/program24.c) |
 | 25 | program25 |  Write a program which accept number from user and display first 5 multiples of that number.  | C_Programming |Display first 5 multiples of that number|  [View Code](./CP_CODES/program25.c) |
+| 26 | program26 | Write a program which accepts a number from the user and prints "Small" if it is less than 50, "Medium" if it is between 50 and 100, otherwise "Large". | C_Programming | if-else ladder, Conditional Statements, Range Checking | [View Code](./CP_CODES/program26.c) |
+| 27 | program27 | Accept a single digit number from the user and display it in words. Handle negative digits and invalid input. | C_Programming | switch-case, Input Validation, Absolute Value | [View Code](./CP_CODES/program27.c) |
+| 28 | program28 | Write a program to find the factorial of a given number. Accept both positive and negative inputs. | C_Programming | Loops, Factorial, Function Return Value, Input Handling | [View Code](./CP_CODES/program28.c) |
+| 29 | program29 | Write a program which accepts a number from the user and displays its multiplication table. | C_Programming | for Loop, Multiplication Table, Iteration | [View Code](./CP_CODES/program29.c) |
+| 30 | program30 | Write a program which accepts a number from the user and displays its multiplication table in reverse order. | C_Programming | Reverse Looping, Multiplication Table, Iteration | [View Code](./CP_CODES/program30.c) |
+| 31 | program31 | Write a program which accepts a number from the user and displays `*` followed by `#` pattern. | C_Programming | Pattern Printing, for Loop, Input Validation, Absolute Value | [View Code](./CP_CODES/program31.c) |
+| 32 | program32 | Accept amount in US Dollars and return its corresponding value in Indian Rupees (1 USD = ₹70). | C_Programming | Functions, Return Value, Arithmetic Operations, Currency Conversion | [View Code](./CP_CODES/program32.c) |
+| 33 | program33 | Write a program to find the even factorial of a given number. | C_Programming | Factorial, Loops, Conditional Statements, Even Numbers | [View Code](./CP_CODES/program33.c) |
+| 34 | program34 | Write a program to find the odd factorial of a given number. | C_Programming | Factorial, Loops, Conditional Statements, Odd Numbers | [View Code](./CP_CODES/program34.c) |
+| 35 | program35 | Write a program to return the difference between even factorial and odd factorial of a given number. | C_Programming | Factorial, Arithmetic Operations, Conditional Logic, Functions | [View Code](./CP_CODES/program35.c) |
+
+
+
 
 
 
