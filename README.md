@@ -53,7 +53,7 @@ A collection of C programming programs covering concepts, practice problems, and
 ## PRACTICE_CODES Programs
 
 
-###  NUMBERS/DIGITS/LOOPS
+##  NUMBERS/DIGITS/LOOPS
 | SR. No | Program No | Description | Language | Learnings | Link |
 |--------|------------|-------------|----------|-----------|------|
 | 01 | program01 |	print "Jay Ganesh" on screen by using C_Programming |	C_Programming|	Basic Trial of environment setup...| [View Code](./PRACTICE_CODES/program01.c) |
@@ -110,7 +110,7 @@ A collection of C programming programs covering concepts, practice problems, and
 | 52 | program77 |  print  seperate digits of number using while loop  |	C_Programming  | Create different  function for business logic |   [View Code](./PRACTICE_CODES/program77.c) |
 | 53 | program78 |  print  seperate digits of number using while loop  |	C_Programming  | Create different  function for business logic |   [View Code](./PRACTICE_CODES/program78.c) |
 
-### ARRAY
+## ARRAY
 | SR. No | Program No | Description | Language | Learnings | Link |
 |--------|------------|-------------|----------|-----------|------|
 | 54 | program94 | display base address of array | C_Programming | introduction to array name as base address | [View Code](./PRACTICE_CODES/program94.c) |
@@ -153,25 +153,67 @@ A collection of C programming programs covering concepts, practice problems, and
 | 91 | program131 | search user defined element from array using linear search optimize code | C_Programming | code with Business Logic in different function[time complexity O(N)] | [View Code](./PRACTICE_CODES/program131.c) |
 
 
-
-
-### LINKED_LIST
+## STRING
 | SR. No | Program No | Description | Language | Learnings | Link |
 |--------|------------|-------------|----------|-----------|------|
-| - | program351 | display size of linked list node structure | C_Programming | introduction to linked list node structure and sizeof() operator | [View Code](./PRACTICE_CODES/program351.c) |
-| - | program352 | display size of linked list node structure | C_Programming | introduction to linked list node structure and sizeof() operator | [View Code](./PRACTICE_CODES/program352.c) |
-| - | program353 | initialize and display single linked list node | C_Programming | introduction to linked list node initialization | [View Code](./PRACTICE_CODES/program353.c) |
-| - | program354 | create two node linked list manually | C_Programming | introduction to linking nodes using pointer | [View Code](./PRACTICE_CODES/program354.c) |
-| - | program355 | access linked list node using next pointer | C_Programming | use of arrow operator and node traversal | [View Code](./PRACTICE_CODES/program355.c) |
-| - | program356 | create three node linked list manually | C_Programming | linked list traversal using next pointer | [View Code](./PRACTICE_CODES/program356.c) |
-| - | program357 | create three node linked list using head pointer | C_Programming | introduction to head pointer in linked list | [View Code](./PRACTICE_CODES/program357.c) |
-| - | program358 | create three node linked list using typedef | C_Programming | use of typedef with linked list structure | [View Code](./PRACTICE_CODES/program358.c) |
-| - | program359 | create three node linked list using PNODE | C_Programming | use of typedef for pointer to structure | [View Code](./PRACTICE_CODES/program359.c) |
-| - | program360 | traverse linked list using temp pointer | C_Programming | creation and use of temporary pointer | [View Code](./PRACTICE_CODES/program360.c) |
-| - | program361 | traverse linked list using sequence | C_Programming | linked list traversal using sequential movement of temp pointer | [View Code](./PRACTICE_CODES/program361.c) |
-| - | program362 | display linked list using temp pointer | C_Programming | preserve head pointer during traversal | [View Code](./PRACTICE_CODES/program362.c) |
-| - | program363 | count number of nodes in linked list | C_Programming | linked list traversal using iteration | [View Code](./PRACTICE_CODES/program363.c) |
-| - | program364 | create linked list node using dynamic memory allocation | C_Programming | use of malloc() for dynamic memory allocation | [View Code](./PRACTICE_CODES/program364.c) |
+| 92 | program232 | display string using character array | C_Programming | introduction to string representation using character array | [View Code](./PRACTICE_CODES/program232.c) |
+| 93 | program233 | demonstrate string termination using null character | C_Programming | importance of null terminator in string | [View Code](./PRACTICE_CODES/program233.c) |
+| 94 | program234 | calculate length of string using strlen() | C_Programming | use of string library function strlen() | [View Code](./PRACTICE_CODES/program234.c) |
+| 95 | program235 | compare strlen() and sizeof() for string | C_Programming | difference between strlen() and sizeof() | [View Code](./PRACTICE_CODES/program235.c) |
+| 96 | program236 | traverse string using pointer | C_Programming | string traversal using pointer arithmetic | [View Code](./PRACTICE_CODES/program236.c) |
+| 97 | program237 | display string characters using while loop | C_Programming | string traversal using while loop | [View Code](./PRACTICE_CODES/program237.c) |
+| 98 | program238 | calculate string length manually | C_Programming | implementation of custom strlen() logic | [View Code](./PRACTICE_CODES/program238.c) |
+| 99 | program239 | compare library strlen() with custom strlen() | C_Programming | comparison between library function and user defined function | [View Code](./PRACTICE_CODES/program239.c) |
+| 100 | program240 | accept string using scanf() | C_Programming | issue with scanf() while accepting string with spaces | [View Code](./PRACTICE_CODES/program240.c) |
+| 101 | program241 | accept string with spaces using scanf() | C_Programming | use of scanset in scanf() | [View Code](./PRACTICE_CODES/program241.c) |
+| 102 | program242 | pass string to function using pointer | C_Programming | code with Business Logic in different function[char pointer] | [View Code](./PRACTICE_CODES/program242.c) |
+| 103 | program243 | pass string to function using character array | C_Programming | code with Business Logic in different function[character array] | [View Code](./PRACTICE_CODES/program243.c) |
+| 104 | program244 | access string characters using indexing | C_Programming | string traversal using array indexing | [View Code](./PRACTICE_CODES/program244.c) |
+| 105 | program245 | access string characters using pointer arithmetic | C_Programming | string traversal using pointer increment | [View Code](./PRACTICE_CODES/program245.c) |
+| 106 | program246 | calculate string length using user defined function | C_Programming | code with Business Logic in different function[user defined strlen()] | [View Code](./PRACTICE_CODES/program246.c) |
+| 107 | program247 | modify string using pointer | C_Programming | demonstration of mutable character array | [View Code](./PRACTICE_CODES/program247.c) |
+| 108 | program248 | calculate string length using constant pointer | C_Programming | use of constant pointer with string | [View Code](./PRACTICE_CODES/program248.c) |
+| 109 | program249 | calculate string length using pointer to constant data | C_Programming | use of const data pointer with string | [View Code](./PRACTICE_CODES/program249.c) |
+| 110 | program250 | count frequency of character from string | C_Programming | code with Business Logic in different function[character frequency] | [View Code](./PRACTICE_CODES/program250.c) |
+| 111 | program251 | count frequency of character ignoring case | C_Programming | code with Business Logic in different function[case insensitive frequency] | [View Code](./PRACTICE_CODES/program251.c) |
+| 112 | program252 | count vowels from string | C_Programming | code with Business Logic in different function[vowel count] | [View Code](./PRACTICE_CODES/program252.c) |
+| 113 | program253 | count vowels from string optimize code | C_Programming | code with Business Logic in different function[capital and small vowels] | [View Code](./PRACTICE_CODES/program253.c) |
+| 114 | program254 | count small characters from string | C_Programming | code with Business Logic in different function[ASCII values] | [View Code](./PRACTICE_CODES/program254.c) |
+| 115 | program255 | count small characters from string optimize code | C_Programming | code with Business Logic in different function[character range] | [View Code](./PRACTICE_CODES/program255.c) |
+| 116 | program256 | count capital characters from string | C_Programming | code with Business Logic in different function[character range] | [View Code](./PRACTICE_CODES/program256.c) |
+| 117 | program257 | count white spaces from string | C_Programming | code with Business Logic in different function[space count] | [View Code](./PRACTICE_CODES/program257.c) |
+| 118 | program258 | replace character from string | C_Programming | code with Business Logic in different function[string update] | [View Code](./PRACTICE_CODES/program258.c) |
+| 119 | program259 | replace character from string optimize code | C_Programming | code with Business Logic in different function[string update] | [View Code](./PRACTICE_CODES/program259.c) |
+| 120 | program290 | display string in reverse order | C_Programming | code with Business Logic in different function | [View Code](./PRACTICE_CODES/program290.c) |
+| 121 | program291 | display string in reverse order optimize code | C_Programming | code with Business Logic in different function[pointer traversal] | [View Code](./PRACTICE_CODES/program291.c) |
+| 122 | program292 | display string in reverse order optimize code | C_Programming | code with Business Logic in different function[pointer arithmetic] | [View Code](./PRACTICE_CODES/program292.c) |
+| 123 | program293 | display string in reverse order optimize code | C_Programming | code with Business Logic in different function[string suffix display] | [View Code](./PRACTICE_CODES/program293.c) |
+| 124 | program294 | reverse string | C_Programming | code with Business Logic in different function[string reverse logic] | [View Code](./PRACTICE_CODES/program294.c) |
+| 125 | program295 | swap two numbers | C_Programming | swapping technique using temporary variable | [View Code](./PRACTICE_CODES/program295.c) |
+| 126 | program296 | swap two numbers using call by value | C_Programming | demonstrate effect of call by value | [View Code](./PRACTICE_CODES/program296.c) |
+| 127 | program297 | swap two numbers using call by address | C_Programming | demonstrate effect of call by address | [View Code](./PRACTICE_CODES/program297.c) |
+| 128 | program298 | reverse string using swapping technique | C_Programming | code with Business Logic in different function[two pointer technique] | [View Code](./PRACTICE_CODES/program298.c) |
+| 129 | program299 | reverse string using swapping technique optimize code | C_Programming | code with Business Logic in different function[two pointer technique] | [View Code](./PRACTICE_CODES/program299.c) |
+| 130 | program300 | reverse string optimize code | C_Programming | code with Business Logic in different function[two pointer technique and optimized swap logic] | [View Code](./PRACTICE_CODES/program300.c) |
+
+
+## LINKED_LIST
+| SR. No | Program No | Description | Language | Learnings | Link |
+|--------|------------|-------------|----------|-----------|------|
+| 131 | program351 | display size of linked list node structure | C_Programming | introduction to linked list node structure and sizeof() operator | [View Code](./PRACTICE_CODES/program351.c) |
+| 132 | program352 | display size of linked list node structure | C_Programming | introduction to linked list node structure and sizeof() operator | [View Code](./PRACTICE_CODES/program352.c) |
+| 133 | program353 | initialize and display single linked list node | C_Programming | introduction to linked list node initialization | [View Code](./PRACTICE_CODES/program353.c) |
+| 134 | program354 | create two node linked list manually | C_Programming | introduction to linking nodes using pointer | [View Code](./PRACTICE_CODES/program354.c) |
+| 135 | program355 | access linked list node using next pointer | C_Programming | use of arrow operator and node traversal | [View Code](./PRACTICE_CODES/program355.c) |
+| 136 | program356 | create three node linked list manually | C_Programming | linked list traversal using next pointer | [View Code](./PRACTICE_CODES/program356.c) |
+| 137 | program357 | create three node linked list using head pointer | C_Programming | introduction to head pointer in linked list | [View Code](./PRACTICE_CODES/program357.c) |
+| 138 | program358 | create three node linked list using typedef | C_Programming | use of typedef with linked list structure | [View Code](./PRACTICE_CODES/program358.c) |
+| 139 | program359 | create three node linked list using PNODE | C_Programming | use of typedef for pointer to structure | [View Code](./PRACTICE_CODES/program359.c) |
+| 140 | program360 | traverse linked list using temp pointer | C_Programming | creation and use of temporary pointer | [View Code](./PRACTICE_CODES/program360.c) |
+| 141 | program361 | traverse linked list using sequence | C_Programming | linked list traversal using sequential movement of temp pointer | [View Code](./PRACTICE_CODES/program361.c) |
+| 142 | program362 | display linked list using temp pointer | C_Programming | preserve head pointer during traversal | [View Code](./PRACTICE_CODES/program362.c) |
+| 143 | program363 | count number of nodes in linked list | C_Programming | linked list traversal using iteration | [View Code](./PRACTICE_CODES/program363.c) |
+| 144 | program364 | create linked list node using dynamic memory allocation | C_Programming | use of malloc() for dynamic memory allocation | [View Code](./PRACTICE_CODES/program364.c) |
 
 
 
