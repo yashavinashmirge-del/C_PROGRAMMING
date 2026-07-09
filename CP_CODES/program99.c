@@ -1,14 +1,26 @@
 /*
+iRow = 5
+iCol = 5
 
-    
-    Program : Write a program which accept number of rows and number of columns from user and display below pattern.
 
-    Input : iRow = 4 iCol = 4
-    Output : * * * *
-             * * * *
-             * * * *
-             * * * *
+1 2 3 4 5
+-1 -2 -3 -4 -5
+1 2 3 4 5
+-1 -2 -3 -4 -5
+1 2 3 4 5
+
+
+
+
+
+
 */
+
+
+
+
+
+
 
 
 
@@ -20,10 +32,21 @@ void Pattern(int iRow, int iCol)
 
     for(i = 1; i <= iRow; i++)
     {
-        for(j = 1; j <= iCol; j++)
+        if(i % 2 == 1)
         {
-            printf("* ");
+            for(j = 1; j <= iCol; j++)
+            {
+                printf("%d ", j);
+            }
         }
+        else
+        {
+            for(j = 1; j <= iCol; j++)
+            {
+                printf("%d ", -j);
+            }
+        }
+
         printf("\n");
     }
 }
