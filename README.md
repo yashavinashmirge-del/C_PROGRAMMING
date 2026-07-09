@@ -5,7 +5,6 @@ A collection of C programming programs covering concepts, practice problems, and
 
 ## CP_CODES Programs
 
-##  NUMBERS/DIGITS/LOOPS
 
 | SR. No | Program No | Description | Language | Learnings | Link |
 |--------|------------|-------------|----------|-----------|------|
@@ -29,10 +28,6 @@ A collection of C programming programs covering concepts, practice problems, and
 | 18 | program18 |	Program to display all non-factors of a number | C_Programming |	Factors vs Non-Factors, Conditional Statements, Looping	| [View Code](./CP_CODES/program18.c) |
 | 19 | program19 |	Program to return summation of all non-factors of a number | C_Programming |	Non-Factors, Summation, Accumulator Pattern, Functions | [View Code](./CP_CODES/program19.c) |
 | 20 | program20 | Program to return difference between summation of factors and non-factors	| C_Programming |	Factors, Non-Factors, Summation, Arithmetic Operations, Functions	|  [View Code](./CP_CODES/program20.c) |
-
-## Pattern Printing
-| SR. No | Program No | Description | Language | Learnings | Link |
-|--------|------------|-------------|----------|-----------|------|
 | 21 | program21 |  Pattern Printing ($  *) for  N number accept from user	| C_Programming |	we can use for loop to print the pattern and also we can use if else statement to print the pattern according to the condition.	|  [View Code](./CP_CODES/program21.c) |
 | 22 | program22 |  Pattern Printing (1 to N) where  N number accept from user	| C_Programming |	 use of for loop and if else statement.	|  [View Code](./CP_CODES/program22.c) |
 | 23 | program23 |  Pattern Printing (-N to N) where  N number accept from user	| C_Programming |How to use for loop to display pattern How to use for loop to display pattern in reverse order {with one for loop..}	|  [View Code](./CP_CODES/program23.c) |
@@ -48,7 +43,21 @@ A collection of C programming programs covering concepts, practice problems, and
 | 33 | program33 | Write a program to find the even factorial of a given number. | C_Programming | Factorial, Loops, Conditional Statements, Even Numbers | [View Code](./CP_CODES/program33.c) |
 | 34 | program34 | Write a program to find the odd factorial of a given number. | C_Programming | Factorial, Loops, Conditional Statements, Odd Numbers | [View Code](./CP_CODES/program34.c) |
 | 35 | program35 | Write a program to return the difference between even factorial and odd factorial of a given number. | C_Programming | Factorial, Arithmetic Operations, Conditional Logic, Functions | [View Code](./CP_CODES/program35.c) |
-
+| 36 | program36 | Calculate the area of a circle using the given radius (π = 3.14). | C_Programming | Functions, Floating-Point Arithmetic, Formula Implementation, Return Value | [View Code](./CP_CODES/program36.c) |
+| 37 | program37 | Calculate the area of a rectangle using its width and height. | C_Programming | Functions, Multiplication, Floating-Point Values, Return Value | [View Code](./CP_CODES/program37.c) |
+| 38 | program38 | Convert distance from kilometres to meters. | C_Programming | Unit Conversion, Arithmetic Operations, Functions, Return Value | [View Code](./CP_CODES/program38.c) |
+| 39 | program39 | Convert temperature from Fahrenheit to Celsius. | C_Programming | Mathematical Formula, Floating-Point Calculations, Functions | [View Code](./CP_CODES/program39.c) |
+| 40 | program40 | Convert area from square feet to square meters. | C_Programming | Unit Conversion, Floating-Point Arithmetic, Functions, Return Value | [View Code](./CP_CODES/program40.c) |
+| 41 | program41 | Count the number of even digits in a given number. | C_Programming | Digit Extraction, Modulus Operator, Loops, Conditional Statements | [View Code](./CP_CODES/program41.c) |
+| 42 | program42 | Count the number of odd digits in a given number. | C_Programming | Digit Extraction, Modulus Operator, Conditional Logic, Loops | [View Code](./CP_CODES/program42.c) |
+| 43 | program43 | Count digits that lie between 3 and 7 in a given number. | C_Programming | Digit Processing, Range Checking, Loops, Conditional Statements | [View Code](./CP_CODES/program43.c) |
+| 44 | program44 | Calculate the multiplication of all digits in a given number. | C_Programming | Digit Manipulation, Multiplication, Loops, Accumulator Pattern | [View Code](./CP_CODES/program44.c) |
+| 45 | program45 | Return the difference between the sum of even digits and the sum of odd digits. | C_Programming | Digit Extraction, Summation, Conditional Logic, Arithmetic Operations | [View Code](./CP_CODES/program45.c) |
+| 46 | program46 | Calculate the area of a circle using the given radius (π = 3.14). | C_Programming | Functions, Floating-Point Arithmetic, Formula Implementation, Return Value | [View Code](./CP_CODES/program46.c) |
+| 47 | program47 | Calculate the area of a rectangle using its width and height. | C_Programming | Functions, Multiplication, Floating-Point Values, Return Value | [View Code](./CP_CODES/program47.c) |
+| 48 | program48 | Convert distance from kilometres to meters. | C_Programming | Unit Conversion, Arithmetic Operations, Functions, Return Value | [View Code](./CP_CODES/program48.c) |
+| 49 | program49 | Convert temperature from Fahrenheit to Celsius. | C_Programming | Mathematical Formula, Floating-Point Calculations, Functions | [View Code](./CP_CODES/program49.c) |
+| 50 | program50 | Convert area from square feet to square meters. | C_Programming | Unit Conversion, Floating-Point Arithmetic, Functions, Return Value | [View Code](./CP_CODES/program50.c) |
 
 
 
