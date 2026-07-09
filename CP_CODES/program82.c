@@ -2,12 +2,9 @@
 
 void Pattern(int iNo)
 {
-    char ch = 'A';
-
-    while(iNo > 0)
+    while(iNo >= 1)
     {
-        printf("%c ", ch);
-        ch++;
+        printf("%d # ", iNo);
         iNo--;
     }
 }
