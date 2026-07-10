@@ -58,6 +58,12 @@ A collection of C programming programs covering concepts, practice problems, and
 | 48 | program48 | Convert distance from kilometres to meters. | C_Programming | Unit Conversion, Arithmetic Operations, Functions, Return Value | [View Code](./CP_CODES/program48.c) |
 | 49 | program49 | Convert temperature from Fahrenheit to Celsius. | C_Programming | Mathematical Formula, Floating-Point Calculations, Functions | [View Code](./CP_CODES/program49.c) |
 | 50 | program50 | Convert area from square feet to square meters. | C_Programming | Unit Conversion, Floating-Point Arithmetic, Functions, Return Value | [View Code](./CP_CODES/program50.c) |
+| 51     | program51  | Display all numbers between the given range                   | C_Programming | Range Validation, `for` Loop, Function Design, Sequential Number Printing          | [View Code](./CP_CODES/program51.c) |
+| 52     | program52  | Display all even numbers between the given range              | C_Programming | Even Number Logic, Modulus Operator (`%`), Range Traversal, Conditional Statements | [View Code](./CP_CODES/program52.c) |
+| 53     | program53  | Calculate the sum of all numbers within a positive range      | C_Programming | Accumulator Pattern, Range Validation, Looping, Return Value                       | [View Code](./CP_CODES/program53.c) |
+| 54     | program54  | Calculate the sum of all even numbers within a positive range | C_Programming | Even Number Filtering, Accumulator, Conditional Logic, Function Return             | [View Code](./CP_CODES/program54.c) |
+| 55     | program55  | Display all numbers in the given range in reverse order       | C_Programming | Reverse Iteration, Range Validation, Decrementing Loop, Function Design            | [View Code](./CP_CODES/program55.c) |
+
 
 
 
