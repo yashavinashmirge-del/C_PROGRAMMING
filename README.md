@@ -147,6 +147,12 @@ A collection of C programming programs covering concepts, practice problems, and
 | 137 | program137 | Program to count the frequency of a character in a string | C_Programming | Strings, Frequency Counting, Character Search | [View Code](./CP_CODES/program137.c) |
 | 138 | program138 | Program to find the first occurrence of a character in a string | C_Programming | String Searching, Index Tracking, Character Comparison | [View Code](./CP_CODES/program138.c) |
 | 139 | program139 | Program to find the last occurrence of a character in a string | C_Programming | String Searching, Index Tracking, Character Comparison | [View Code](./CP_CODES/program139.c) |
+| 140 | program140 | Reverse a string using pointers              | C_Programming | String manipulation, Pointer arithmetic, Swapping characters, Two-pointer technique  | [View Code](./CP_CODES/program140.c) |
+| 141 | program141 | Copy one string to another using pointers    | C_Programming | String copying, Pointer traversal, Null character handling                           | [View Code](./CP_CODES/program141.c) |
+| 142 | program142 | Copy the first N characters of a string      | C_Programming | Limited string copy, Pointer operations, Loop control, Function parameters           | [View Code](./CP_CODES/program142.c) |
+| 143 | program143 | Copy only uppercase characters from a string | C_Programming | Character filtering, ASCII uppercase check, String processing using pointers         | [View Code](./CP_CODES/program143.c) |
+| 144 | program144 | Copy only lowercase characters from a string | C_Programming | Character filtering, ASCII lowercase check, Pointer-based string manipulation        | [View Code](./CP_CODES/program144.c) |
+| 145 | program145 | Concatenate two strings using pointers       | C_Programming | String concatenation, Pointer traversal, Appending strings, Null terminator handling | [View Code](./CP_CODES/program145.c) |
 
 
 
