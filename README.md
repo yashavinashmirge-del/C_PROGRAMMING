@@ -127,7 +127,26 @@ A collection of C programming programs covering concepts, practice problems, and
 | 117 | program117 | Program to check whether the entered character is an uppercase letter | C_Programming | ASCII Values, Conditional Statements, Boolean Functions | [View Code](./CP_CODES/program117.c) |
 | 118 | program118 | Program to check whether the entered character is a digit | C_Programming | ASCII Values, Character Classification, Boolean Functions | [View Code](./CP_CODES/program118.c) |
 | 119 | program119 | Program to check whether the entered character is a lowercase letter | C_Programming | ASCII Values, Character Classification, Conditional Statements | [View Code](./CP_CODES/program119.c) |
-
+| 120 | program120 | Program to display exam schedule based on division | C_Programming | Functions, Character Input, if-else Ladder, Conditional Statements | [View Code](./CP_CODES/program120.c) |
+| 121 | program121 | Program to display ASCII table (0–255) with Decimal, Hexadecimal and Octal values | C_Programming | Loops, ASCII Values, Character Representation, Number Systems | [View Code](./CP_CODES/program121.c) |
+| 122 | program122 | Program to toggle the case of an alphabet character | C_Programming | ASCII Manipulation, Character Conversion, if-else Conditions | [View Code](./CP_CODES/program122.c) |
+| 123 | program123 | Program to display characters from a given alphabet to the end or beginning | C_Programming | Character Iteration, Loops, ASCII Sequence | [View Code](./CP_CODES/program123.c) |
+| 124 | program124 | Program to check whether a character is a special character | C_Programming | Boolean Logic, Character Validation, Conditional Statements | [View Code](./CP_CODES/program124.c) |
+| 125 | program125 | Program to display Decimal, Octal and Hexadecimal values of a character | C_Programming | ASCII Values, Number Systems, Character Representation | [View Code](./CP_CODES/program125.c) |
+| 126 | program126 | Program to count capital letters in a string | C_Programming | Strings, Pointer Traversal, Character Classification | [View Code](./CP_CODES/program126.c) |
+| 127 | program127 | Program to count small letters in a string | C_Programming | Strings, Pointer Traversal, Character Classification | [View Code](./CP_CODES/program127.c) |
+| 128 | program128 | Program to find the difference between lowercase and uppercase letters in a string | C_Programming | String Processing, Character Counting, Arithmetic Operations | [View Code](./CP_CODES/program128.c) |
+| 129 | program129 | Program to check whether a string contains a vowel | C_Programming | Strings, Boolean Functions, Character Searching | [View Code](./CP_CODES/program129.c) |
+| 130 | program130 | Program to reverse a string | C_Programming | Strings, Loops, Indexing, Reverse Traversal | [View Code](./CP_CODES/program130.c) |
+| 131 | program131 | Program to convert a string into lowercase | C_Programming | String Manipulation, ASCII Conversion, Pointers | [View Code](./CP_CODES/program131.c) |
+| 132 | program132 | Program to convert a string into uppercase | C_Programming | String Manipulation, ASCII Conversion, Pointers | [View Code](./CP_CODES/program132.c) |
+| 133 | program133 | Program to toggle the case of every character in a string | C_Programming | String Manipulation, ASCII Conversion, Character Processing | [View Code](./CP_CODES/program133.c) |
+| 134 | program134 | Program to display only digits from a string | C_Programming | Strings, Digit Extraction, Character Filtering | [View Code](./CP_CODES/program134.c) |
+| 135 | program135 | Program to count white spaces in a string | C_Programming | Strings, Character Counting, Pointer Traversal | [View Code](./CP_CODES/program135.c) |
+| 136 | program136 | Program to check whether a character is present in a string | C_Programming | String Searching, Boolean Functions, Character Comparison | [View Code](./CP_CODES/program136.c) |
+| 137 | program137 | Program to count the frequency of a character in a string | C_Programming | Strings, Frequency Counting, Character Search | [View Code](./CP_CODES/program137.c) |
+| 138 | program138 | Program to find the first occurrence of a character in a string | C_Programming | String Searching, Index Tracking, Character Comparison | [View Code](./CP_CODES/program138.c) |
+| 139 | program139 | Program to find the last occurrence of a character in a string | C_Programming | String Searching, Index Tracking, Character Comparison | [View Code](./CP_CODES/program139.c) |
 
 
 
