@@ -1,43 +1,35 @@
-#include <stdio.h>
+// Program55
+// Write a program which accepts a range from the user and
+// displays all numbers in that range in reverse order.
 
-int RangeSumEven(int iStart, int iEnd)
+#include<stdio.h>
+
+void RangeDisplayRev(int iStart, int iEnd)
 {
-    int iSum = 0;
-
-    if(iStart < 0 || iEnd < 0 || iStart > iEnd)
+    if(iStart > iEnd)
     {
         printf("Invalid range\n");
-        return 0;
+        return;
     }
 
-    while(iStart <= iEnd)
+    while(iEnd >= iStart)
     {
-        if(iStart % 2 == 0)
-        {
-            iSum = iSum + iStart;
-        }
-        iStart++;
+        printf("%d\t", iEnd);
+        iEnd--;
     }
-
-    return iSum;
 }
 
 int main()
 {
-    int iValue1 = 0, iValue2 = 0, iRet = 0;
+    int iValue1 = 0, iValue2 = 0;
 
-    printf("Enter starting point: ");
+    printf("Enter starting point : ");
     scanf("%d", &iValue1);
 
-    printf("Enter ending point: ");
+    printf("Enter ending point : ");
     scanf("%d", &iValue2);
 
-    iRet = RangeSumEven(iValue1, iValue2);
-
-    if(iRet != 0)
-    {
-        printf("Addition is %d\n", iRet);
-    }
+    RangeDisplayRev(iValue1, iValue2);
 
     return 0;
 }
