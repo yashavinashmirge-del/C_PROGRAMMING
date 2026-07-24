@@ -24,10 +24,6 @@ C_PROGRAMMING/
 **CP_CODES** — a numbered set of problems, ranging from simple arithmetic and loops to arrays, pointers, and string handling and many more.
 
 **PRACTICE_CODES** — day-to-day practice, loosely grouped into:
-- Numbers, digits, and loops
-- Arrays (traversal, pointers, dynamic memory)
-- Strings (character arrays, pointer-based operations)
-
 Each `.c` file is self-contained, and most are named `programXX.c` in the order I wrote them.
 
 ## Running the programs
@@ -42,7 +38,7 @@ cd C_PROGRAMMING
 gcc CP_CODES/program10.c -o Myexe
 
 # run it
-./program10
+./Myexe
 ```
 
 On Windows, use MinGW or WSL, and the output file will be `program10.exe`.
@@ -53,10 +49,14 @@ On Windows, use MinGW or WSL, and the output file will be `program10.exe`.
 - Code quality varies across the repo since it spans different stages of learning. Older programs may be simpler or less optimized than later ones.
 - Not all folders are fully documented yet — this is a work in progress and gets updated as I keep practicing.
 
-## Author
+## 🙋 Author
 
-Yash Avinash Mirge
-[github.com/yashavinashmirge-del](https://github.com/yashavinashmirge-del)
+**Yash Avinash Mirge**
+[GitHub Profile](https://github.com/yashavinashmirge-del)
 
+<div align="center">
 
+⭐ If this repository helped you learn or revise C, consider giving it a star!
+
+</div>
 
