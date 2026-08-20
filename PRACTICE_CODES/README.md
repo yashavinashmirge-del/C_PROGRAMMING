@@ -37,7 +37,7 @@
 | 29 | program31 | printing the Jay Ganesh N times using the  for loop/ Iteration |	C_Programming  | use of  loop   and taking the number of frequence from user | [View Code](./program31.c) |
 | 30 | program32 | printing the Jay Ganesh N times using the  for loop/ Iteration |	C_Programming  | use of  loop   and taking the number of frequence from user | [View Code](./program32.c) |
 | 31 | program33 | printing the Jay Ganesh N times using the  for loop/ Iteration |	C_Programming  | use of  loop   and taking the number of frequence from user | [View Code](./program33.c) |
-| 32 | program33 | printing the Jay Ganesh N times using the  for loop/ Iteration |	C_Programming  | use of  loop   and taking the number of frequence from user | [View Code](./program33.c) |
+| 32 | program34 | printing the Jay Ganesh N times using the  for loop/ Iteration |	C_Programming  | use of  loop   and taking the number of frequence from user | [View Code](./program34.c) |
 | 33 | program52 |  take input from user print natural  numbers  till that number (1 to N) |	C_Programming  | use of  loop   and taking the number  from user | [View Code](./program52.c) |
 | 34 | program53 |  take input from user print whole   numbers  till that number ( 0 to N)  |	C_Programming  | use of  loop   and taking the number from user | [View Code](./program53.c) |
 | 35 | program54 |  take input from user print whole  numbers   that number ( 0 to N-1)  |	C_Programming  | use of  loop   and taking the number from user | [View Code](./program54.c) |
